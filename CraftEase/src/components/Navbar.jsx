@@ -26,8 +26,8 @@ export default function Navbar() {
     <header
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
         scrolled
-          ? 'bg-cream/95 backdrop-blur-sm shadow-sm border-b border-craft-warm'
-          : 'bg-transparent'
+          ? 'bg-craft-navy shadow-sm border-b border-white/10'
+          : 'bg-craft-navy'
       }`}
     >
       <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
@@ -36,7 +36,7 @@ export default function Navbar() {
           <div className="w-8 h-8 rounded-full bg-craft-gold flex items-center justify-center shadow-sm group-hover:scale-105 transition-transform">
             <span className="text-white font-display font-bold text-sm leading-none">C</span>
           </div>
-          <span className="font-display font-semibold text-craft-dark text-lg tracking-tight">
+          <span className="font-display font-semibold text-white text-lg tracking-tight">
             Craft<span className="text-craft-gold">Ease</span>
           </span>
         </Link>
@@ -69,9 +69,9 @@ export default function Navbar() {
           onClick={() => setMenuOpen(!menuOpen)}
           aria-label="Izbornik"
         >
-          <span className={`block w-5 h-0.5 bg-craft-dark transition-all duration-300 ${menuOpen ? 'rotate-45 translate-y-2' : ''}`} />
-          <span className={`block w-5 h-0.5 bg-craft-dark transition-all duration-300 ${menuOpen ? 'opacity-0' : ''}`} />
-          <span className={`block w-5 h-0.5 bg-craft-dark transition-all duration-300 ${menuOpen ? '-rotate-45 -translate-y-2' : ''}`} />
+          <span className={`block w-5 h-0.5 bg-white transition-all duration-300 ${menuOpen ? 'rotate-45 translate-y-2' : ''}`} />
+          <span className={`block w-5 h-0.5 bg-white transition-all duration-300 ${menuOpen ? 'opacity-0' : ''}`} />
+          <span className={`block w-5 h-0.5 bg-white transition-all duration-300 ${menuOpen ? '-rotate-45 -translate-y-2' : ''}`} />
         </button>
       </div>
 
@@ -79,13 +79,13 @@ export default function Navbar() {
       <div
         className={`md:hidden overflow-hidden transition-all duration-300 ${
           menuOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'
-        } bg-cream/98 backdrop-blur-sm border-b border-craft-warm`}
+        } bg-craft-navy border-b border-white/10`}
       >
         <nav className="flex flex-col px-6 py-4 gap-3">
           <NavLink
             to="/"
             end
-            className="font-body text-sm text-craft-dark py-1.5"
+            className="font-body text-sm text-white/80 py-1.5"
             onClick={() => setMenuOpen(false)}
           >
             Početna
@@ -94,7 +94,7 @@ export default function Navbar() {
             <button
               key={kat.id}
               onClick={() => handleKategorijaClick(kat.id)}
-              className="font-body text-sm text-craft-dark text-left py-1.5 bg-transparent border-none cursor-pointer"
+              className="font-body text-sm text-white/80 text-left py-1.5 bg-transparent border-none cursor-pointer"
             >
               <span className="mr-2">{kat.ikona}</span>{kat.naziv}
             </button>
