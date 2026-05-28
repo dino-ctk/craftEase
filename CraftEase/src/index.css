@@ -20,7 +20,7 @@
 
 @layer components {
   .nav-link {
-    @apply relative text-sm font-medium text-craft-navy/80 hover:text-craft-gold transition-colors duration-200;
+    @apply relative text-sm font-medium text-white/80 hover:text-craft-gold transition-colors duration-200;
   }
   .nav-link::after {
     content: '';
