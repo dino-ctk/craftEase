@@ -1,4 +1,7 @@
 import { Link } from 'react-router-dom'
+import { FaFacebook } from "react-icons/fa";
+import { AiFillTikTok } from "react-icons/ai";
+import { AiOutlineInstagram } from "react-icons/ai";
 
 export default function Footer() {
   return (
@@ -21,15 +24,15 @@ export default function Footer() {
             <div className="flex gap-3 mt-5">
               <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"
                 className="w-8 h-8 rounded-full bg-white/10 hover:bg-craft-gold transition-colors flex items-center justify-center text-sm">
-                f
+                <FaFacebook />
               </a>
               <a href="https://instagram.com" target="_blank" rel="noopener noreferrer"
                 className="w-8 h-8 rounded-full bg-white/10 hover:bg-craft-gold transition-colors flex items-center justify-center text-xs">
-                IG
+                <AiOutlineInstagram />
               </a>
               <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer"
                 className="w-8 h-8 rounded-full bg-white/10 hover:bg-craft-gold transition-colors flex items-center justify-center text-xs">
-                TT
+                <AiFillTikTok />
               </a>
             </div>
           </div>
