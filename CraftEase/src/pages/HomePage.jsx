@@ -138,7 +138,7 @@ export default function HomePage() {
               <div className="bg-white/5 rounded-2xl p-5 border border-white/10">
                 <div className="text-3xl mb-2">💡</div>
                 <h4 className="font-display font-semibold text-white mb-1">Misija</h4>
-                <p className="text-white/50 text-sm font-body">Omogućiti korisnicima vrsne video upute i jednostavno slažanje namještaja.</p>
+                <p className="text-white/50 text-sm font-body">Omogućiti korisnicima vrsne video upute i jednostavno slaganje namještaja.</p>
               </div>
             </div>
           </div>

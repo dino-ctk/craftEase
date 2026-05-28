@@ -19,8 +19,8 @@
       "trošak": "$",
       "thumbnailUrl": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=640&q=80",
       "videoUrl": "https://www.youtube.com/embed/HpaNo3ViUy0",
-      "koraci": [
-        "Raspakujte sve dijelove i provjerite popis sadržaja u uputama.",
+            "koraci": [
+        "Raspakujte sve dijelove i provjerite popis  sadržaja  u uputama.",
         "Spojite bočne stranice okvira koristeći imbus ključ.",
         "Postavite letva podlogu – počnite od sredine prema rubovima.",
         "Pričvrstite uzglavlje i podnožje kreveta.",
@@ -28,31 +28,31 @@
       ],
       "alati": [
         {
-          "naziv": "Imbus ključ set",
-          "ikona": "🔧",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=imbus+kljuc+set"
+          "naziv": "Komplet odvijača",
+          "ikona": "🪛",
+          "bauhasUrl": "https://www.bauhaus.hr/kompleti-odvijaca/craftomat-kutni-odvijac/p/22378695"
         },
         {
-          "naziv": "Čekić",
+          "naziv": "Gumeni čekić",
           "ikona": "🔨",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=cekic"
+          "bauhasUrl": "https://www.bauhaus.hr/gumeni-cekici/gumeni-cekic/p/27022173"
         },
         {
-          "naziv": "Metar",
-          "ikona": "📏",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=metar+mjerni"
+          "naziv": "Set odvijača",
+          "ikona": "🪛",
+          "bauhasUrl": "https://www.bauhaus.hr/kompleti-odvijaca/wera-set-odvijaca-kraftform-kompakt-60/p/11118094"
         }
       ],
       "materijali": [
         {
           "naziv": "Drveni vijci 4×40 mm (pak. 100 kom)",
           "ikona": "🪛",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=drveni+vijci+4x40"
+          "bauhasUrl": "https://www.bauhaus.hr/vijci-za-montazu-i-montazni-elementi/suki-vijak-s-obostranim-navojem/p/23595202"
         },
         {
           "naziv": "Drvena letva 70×8 mm",
           "ikona": "🪵",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=drvena+letva"
+          "bauhasUrl": "https://www.bauhaus.hr/grede-i-okviri/podkonstrukcijska-letva/p/14415725"
         }
       ]
     },
@@ -60,13 +60,13 @@
     {
       "id": "ugradnja-polica",
       "naslov": "Ugradnja zidnih polica u dnevnom boravku",
-      "opis": "Korak-po-korak vodič za montažu plutajućih polica na zid. Naučite kako pravilno locirati nosače, bušiti u beton i postići savršenu horizontalnost.",
+      "opis": "Korak-po-korak vodič za montažu zidnih polica na zid. Naučite kako pravilno locirati nosače, bušiti u beton i postići savršenu horizontalnost.",
       "kategorija": "dnevna-soba",
       "razina": "srednji",
       "vrijemeMin": 90,
       "trošak": "$$",
       "thumbnailUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=640&q=80",
-      "videoUrl": "https://www.youtube.com/embed/iMD_RAGmCAE",
+            "videoUrl": "https://www.youtube.com/embed/iMD_RAGmCAE",
       "koraci": [
         "Označite željenu visinu police detektorom razine.",
         "Bušilicom izbušite rupe na označenim mjestima.",
@@ -78,34 +78,34 @@
         {
           "naziv": "Udarna bušilica",
           "ikona": "🔩",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=udarna+busilica"
+          "bauhasUrl": "https://www.bauhaus.hr/udarne-busilice/bosch-professional-udarna-busilica-gsb-600/p/30869101"
         },
         {
-          "naziv": "Libela (razina)",
+          "naziv": "Libela",
           "ikona": "📐",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=libela+razina"
+          "bauhasUrl": "https://www.bauhaus.hr/libele/bauhaus-libela/p/25989999"
         },
         {
-          "naziv": "Odvijač Phillips",
+          "naziv": "Odvijač",
           "ikona": "🪛",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=odvijac+phillips"
+          "bauhasUrl": "https://www.bauhaus.hr/phillips-i-krizni-odvijaci/wera-kraftform-stainless-odvijac-kraftform-stainless-3350/p/11118434"
         }
       ],
       "materijali": [
         {
-          "naziv": "Plastični tiplovi 8 mm (pak. 50 kom)",
+          "naziv": "Preklopna tipla",
           "ikona": "🔘",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=plasticni+tiplovi+8mm"
+          "bauhasUrl": "https://www.bauhaus.hr/tiple-za-suplje-gradevinske-materijale/fischer-duotec-preklopna-tipla/p/25786437"
         },
         {
           "naziv": "Vijci za beton 5×60 mm",
           "ikona": "🔩",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=vijci+za+beton+5x60"
+          "bauhasUrl": "https://www.bauhaus.hr/vijci-za-beton/fischer-vijci-za-beton-ultracut-fbs-ii/p/25243987"
         },
         {
-          "naziv": "Nosači za plutajuće police",
+          "naziv": "Nosači za zidne police",
           "ikona": "🪝",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=nosaci+police+plutajuce"
+          "bauhasUrl": "https://www.bauhaus.hr/zidni-nosaci/stabilit-nosac-za-zidne-police/p/10663588"
         }
       ]
     },
@@ -120,50 +120,50 @@
       "trošak": "$$$",
       "thumbnailUrl": "https://images.unsplash.com/photo-1556909211-36987daf7b4d?w=640&q=80",
       "videoUrl": "https://www.youtube.com/embed/mPM60XD9Yc8",
-      "koraci": [
+            "koraci": [
         "Očistite i izravnajte površinu zida, uklonite stare obloge.",
         "Označite središte zida i počnite postavljanje od sredine prema rubovima.",
-        "Nanesite ljepilo za pločice zupčastom lopaticama.",
+        "Nanesite ljepilo za pločice zupčastim lopaticama.",
         "Postavite pločice s plastičnim razmaknicama za jednake fuge.",
-        "Nakon sušenja (24h) nanesite fugnmasu i obrišite višak vlažnom spužvom."
+        "Nakon sušenja (24h) nanesite fug masu i obrišite višak vlažnom spužvom."
       ],
       "alati": [
         {
           "naziv": "Rezač pločica",
           "ikona": "✂️",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=rezac+plocica"
+          "bauhasUrl": "https://www.bauhaus.hr/elektricni-rezaci-plocica/scheppach-elektricni-rezac-plocica-fs3600/p/24468468"
         },
         {
-          "naziv": "Zupčasta lopatica",
+          "naziv": "Nazubljena lopatica",
           "ikona": "🔧",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=zupcasta+lopatica"
+          "bauhasUrl": "https://www.bauhaus.hr/lopatice-i-strugalice/heka-nazubljena-lopatica/p/31713025"
         },
         {
-          "naziv": "Gumena lopatica za fugiranje",
+          "naziv": "Zidarska gladilica",
           "ikona": "🛠️",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=lopatica+fugiranje"
+          "bauhasUrl": "https://www.bauhaus.hr/lopatice/heka-zidarska-gladilica/p/21324844"
         },
         {
-          "naziv": "Libela (razina)",
+          "naziv": "Libela",
           "ikona": "📐",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=libela+razina"
+          "bauhasUrl": "https://www.bauhaus.hr/libele/bauhaus-libela/p/25982022"
         }
       ],
       "materijali": [
         {
-          "naziv": "Ljepilo za pločice C2 (25 kg)",
+          "naziv": "Ljepilo za pločice C2 (27,5 kg)",
           "ikona": "🪣",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=ljepilo+za+plocice+C2"
+          "bauhasUrl": "https://www.bauhaus.hr/ljepila-za-plocice/ljepilo-za-plocice-flex-eco/p/31867038"
         },
         {
-          "naziv": "Fugirna masa bijela (5 kg)",
+          "naziv": "Bijela masa za fugiranje (5 kg)",
           "ikona": "🪣",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=fugirna+masa+bijela"
+          "bauhasUrl": "https://www.bauhaus.hr/mase-za-fugiranje/ceresit-fleksibilna-masa-za-fugiranje-ce-40/p/24942917"
         },
         {
-          "naziv": "Plastične razmaknice 2 mm (pak. 250)",
+          "naziv": "Klin za pločice",
           "ikona": "🔘",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=razmaknice+plocice+2mm"
+          "bauhasUrl": "https://www.bauhaus.hr/alati-za-plocice/heka-klin-za-plocice/p/21778478"
         }
       ]
     },
@@ -177,7 +177,7 @@
       "vrijemeMin": 45,
       "trošak": "$",
       "thumbnailUrl": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=640&q=80",
-      "videoUrl": "https://www.youtube.com/embed/YQc14oPm4aA",
+            "videoUrl": "https://www.youtube.com/embed/YQc14oPm4aA",
       "koraci": [
         "Pronađite nosive točke na zidu detektorom.",
         "Označite poziciju nosača ogledala.",
@@ -187,26 +187,26 @@
       ],
       "alati": [
         {
-          "naziv": "Detektor kabela i nosača",
+          "naziv": "Tražilica metala i vodova",
           "ikona": "📡",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=detektor+kabela+nosaca"
+          "bauhasUrl": "https://www.bauhaus.hr/uredaji-za-detektiranje-kabela/profi-depot-trazilica-metala-i-vodova-4-u-1/p/22176589"
         },
         {
           "naziv": "Bušilica",
           "ikona": "🔩",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=busilica"
+          "bauhasUrl": "https://www.bauhaus.hr/udarne-busilice/iskra-busilica-gx-eid043/p/26585530"
         }
       ],
       "materijali": [
         {
-          "naziv": "Silikon za kupaonicu bijeli (310 ml)",
+          "naziv": "Silikon (280 ml)",
           "ikona": "🪣",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=silikon+kupaonica+bijeli"
+          "bauhasUrl": "https://www.bauhaus.hr/silikoni/ceresit-sanitarni-silikon-cs-25/p/31997485"
         },
         {
-          "naziv": "Nehrđajući vijci 4×35 mm",
+          "naziv": "Nehrđajući vijci",
           "ikona": "🔩",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=nehrdjajuci+vijci+4x35"
+          "bauhasUrl": "https://www.bauhaus.hr/vijci-za-lim-metal-i-krovopokrivacki-vijci/profi-depot-samonarezni-vijak-a2-tx/p/20089308"
         }
       ]
     },
@@ -221,40 +221,40 @@
       "trošak": "$",
       "thumbnailUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=640&q=80",
       "videoUrl": "https://www.youtube.com/embed/ChdaiBc5I80",
-      "koraci": [
-        "Odaberite i izbrušite drvenu dasku dimenzija 100×15 cm.",
-        "Premazite dasku uljem ili lakom po izboru.",
+            "koraci": [
+        "Odaberite i izbrusite drvenu dasku dimenzija 100×15 cm.",
+        "Premažite dasku uljem ili lakom po izboru.",
         "Označite i izbušite rupe za kuke na jednakim razmacima.",
         "Pričvrstite kuke za odjeću na dasku.",
         "Objesite vješalicu na zid pomoću nosača."
       ],
       "alati": [
         {
-          "naziv": "Brusilica za drvo (brusni papir 120/240)",
+          "naziv": "Brusilica za drvo",
           "ikona": "🛠️",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=brusni+papir+drvo"
+          "bauhasUrl": "https://www.bauhaus.hr/ekscentricne-brusilice/iskra-ero-ekscentricna-brusilica-ie-aj8-240/p/27396595"
         },
         {
-          "naziv": "Bušilica s drvenim svrdlom",
+          "naziv": "Bušilica",
           "ikona": "🔩",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=busilica+svrdlo+drvo"
+          "bauhasUrl": "https://www.bauhaus.hr/kombinirane-busilice/bosch-professional-kombinirana-busilica-gbh-2-28-f/p/25337437"
         }
       ],
       "materijali": [
         {
-          "naziv": "Borova daska 100×15×2 cm",
+          "naziv": "Borova daska 200 x 14,6 x 2,7 cm",
           "ikona": "🪵",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=borova+daska+100x15"
+          "bauhasUrl": "https://www.bauhaus.hr/daske-za-terasu-s-naborima/daska-za-terasu/p/22544885"
         },
         {
-          "naziv": "Kuke za odjeću crne (pak. 5 kom)",
+          "naziv": "Zidna vješalica crna",
           "ikona": "🪝",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=kuke+za+odjecu+crne"
+          "bauhasUrl": "https://www.bauhaus.hr/vjesalice-za-odjecu/siro-zidna-vjesalica/p/32329984"
         },
         {
-          "naziv": "Ulje za drvo bezbojno (250 ml)",
+          "naziv": "Ulje za drvo bezbojno (750 ml)",
           "ikona": "🪣",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=ulje+za+drvo+bezbojno"
+          "bauhasUrl": "https://www.bauhaus.hr/ulja-za-drvo/bondex-ulje-za-drvo-teak/p/21308468"
         }
       ]
     },
@@ -269,7 +269,7 @@
       "trošak": "$$",
       "thumbnailUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=640&q=80",
       "videoUrl": "https://www.youtube.com/embed/ivNw4CzLskc",
-      "koraci": [
+            "koraci": [
         "Izrežite terasa daske na mjere: 2× 120 cm i 2× 40 cm za bočne stranice.",
         "Složite okvir i učvrstite vijcima na kutnim spojevima.",
         "Dodajte unutarnji sloj geotekstila koji sprečava ispadanje zemlje.",
@@ -278,26 +278,26 @@
       ],
       "alati": [
         {
-          "naziv": "Ručna ili električna pila",
+          "naziv": "Ručna pila",
           "ikona": "🪚",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=rucna+pila+drvo"
+          "bauhasUrl": "https://www.bauhaus.hr/pile-za-lisicji-rep/alpha-tools-rucna-pila-lisicji-rep/p/23010112"
         },
         {
           "naziv": "Akumulatorska bušilica-odvijač",
           "ikona": "🔧",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=akumulatorska+busilica+odvijac"
+          "bauhasUrl": "https://www.bauhaus.hr/akumulatorski-odvijaci-i-akumulatorske-busilice/dewalt-akumulatorska-busilicaodvijac-dcd710d2/p/25545027"
         },
         {
           "naziv": "Metar",
           "ikona": "📏",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=metar+mjerni"
+          "bauhasUrl": "https://www.bauhaus.hr/metri-na-izvlacenje/bauhaus-metar-s-kocnicom/p/22152279"
         }
       ],
       "materijali": [
         {
-          "naziv": "Terasa daske 120×14 cm (impregnirane)",
+          "naziv": "Terasa daske 200 x 14,5 x 2,8 cm (impregnirane)",
           "ikona": "🪵",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=terasa+daske+impregnirane"
+          "bauhasUrl": "https://www.bauhaus.hr/daske-za-terasu-s-naborima/daska-za-terasu/p/16231471"
         },
         {
           "naziv": "Vijci za vanjsku upotrebu 4×60 mm",
@@ -305,14 +305,14 @@
           "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=vijci+vanjska+upotreba+4x60"
         },
         {
-          "naziv": "Geotekstil 1×5 m",
+          "naziv": "Geotekstil",
           "ikona": "🧵",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=geotekstil"
+          "bauhasUrl": "https://www.bauhaus.hr/drenaza/gutta-geotekstil-guttatex-pp/p/28031039"
         },
         {
-          "naziv": "Vrtni supstrat 50 L",
+          "naziv": "Zemlja za biljke 40 L",
           "ikona": "🌱",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=vrtni+supstrat+50l"
+          "bauhasUrl": "https://www.bauhaus.hr/zemlja-za-sijanje/compo-zemlja-za-biljke/p/20933159"
         }
       ]
     },
@@ -327,7 +327,7 @@
       "trošak": "$$",
       "thumbnailUrl": "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=640&q=80",
       "videoUrl": "https://www.youtube.com/embed/xNM6JoWGe6E",
-      "koraci": [
+            "koraci": [
         "Označite horizontalnu liniju na zidu na željenu visinu ormara.",
         "Pronađite nosive zidne profile detektorom.",
         "Pričvrstite montažnu šinu na zid.",
@@ -338,34 +338,34 @@
         {
           "naziv": "Udarna bušilica",
           "ikona": "🔩",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=udarna+busilica"
+          "bauhasUrl": "https://www.bauhaus.hr/udarne-busilice/bosch-professional-udarna-busilica-gbh-220/p/28393155"
         },
         {
           "naziv": "Libela 60 cm",
           "ikona": "📐",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=libela+60cm"
+          "bauhasUrl": "https://www.bauhaus.hr/libele/bauhaus-libela/p/25996324"
         },
         {
-          "naziv": "Phillips odvijač i imbus ključevi",
+          "naziv": "Odvijač",
           "ikona": "🛠️",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=odvijac+imbus+set"
+          "bauhasUrl": "https://www.bauhaus.hr/ravni-odvijaci/wisent-odvijac/p/30067613"
         }
       ],
       "materijali": [
         {
-          "naziv": "Montažna šina za kuhinjske elemente",
+          "naziv": "Montažna traka",
           "ikona": "🪝",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=montazna+sina+kuhinja"
+          "bauhasUrl": "https://www.bauhaus.hr/montazna-traka-i-montazno-ljepilo/tesa-powerbond-montazna-traka/p/15387003"
         },
         {
           "naziv": "Vijci za beton 6×60 mm (pak. 10)",
           "ikona": "🔩",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=vijci+beton+6x60"
+          "bauhasUrl": "https://www.bauhaus.hr/vijci-za-beton/profi-depot-kombinirani-vijak-za-beton/p/20081818"
         },
         {
-          "naziv": "Tiplovi nylon 8 mm",
+          "naziv": "Tiple od najlona",
           "ikona": "🔘",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=tiplovi+nylon+8mm"
+          "bauhasUrl": "https://www.bauhaus.hr/univerzalne-tiple/fischer-univerzalne-tiple-sx-plus/p/30840647"
         }
       ]
     },
@@ -380,7 +380,7 @@
       "trošak": "$$",
       "thumbnailUrl": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=640&q=80",
       "videoUrl": "https://www.youtube.com/embed/bLbUIevOxzY",
-      "koraci": [
+            "koraci": [
         "Zaštitite pod, namještaj i rubove trakom za maskiranje.",
         "Izravnajte neravnine špahtelom i gletom, ostavite da se suši.",
         "Nanesite prvi sloj temeljne boje valjkom.",
@@ -389,41 +389,41 @@
       ],
       "alati": [
         {
-          "naziv": "Valjak za bojanje 23 cm",
+          "naziv": "Valjak za bojanje 25 cm",
           "ikona": "🖌️",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=valjak+bojanje+23cm"
+          "bauhasUrl": "https://www.bauhaus.hr/valjci-za-boju/valjak-za-boju-blaufaden/p/28088284"
         },
         {
-          "naziv": "Kist 50 mm za rubove",
+          "naziv": "Plosnati kist 25 mm",
           "ikona": "🖌️",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=kist+50mm+bojanje"
+          "bauhasUrl": "https://www.bauhaus.hr/kistovi-za-radijatore-i-kistovi-s-dugim-drskama/swingcolor-premium-plosnati-kist/p/25854255"
         },
         {
           "naziv": "Posuda za boju s mrežicom",
           "ikona": "🪣",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=posuda+boja+mrezica"
+          "bauhasUrl": "https://www.bauhaus.hr/valjci-za-boju/bauhaus-komplet-za-soboslikare/p/21059429"
         }
       ],
       "materijali": [
         {
-          "naziv": "Temeljna boja bijela 5L",
+          "naziv": "Boja za temelje 2,5 L",
           "ikona": "🪣",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=temeljna+boja+bijela+5l"
+          "bauhasUrl": "https://www.bauhaus.hr/temeljni-premazi-za-lakove/swingcolor-boja-za-temelje/p/22238674"
         },
         {
-          "naziv": "Zidna boja po izboru 5L",
+          "naziv": "Zidna boja 5 L",
           "ikona": "🎨",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=zidna+boja+5l"
+          "bauhasUrl": "https://www.bauhaus.hr/disperzivne-boje-bijela/boja-za-zid-termo-top/p/24598392"
         },
         {
-          "naziv": "Traka za maskiranje 38 mm",
+          "naziv": "Samoljepljiva traka",
           "ikona": "📦",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=traka+maskiranje+38mm"
+          "bauhasUrl": "https://www.bauhaus.hr/krep-trake/duck-smart-fina-krep-samoljepljiva-traka/p/30584334"
         },
         {
-          "naziv": "Glet masa 5 kg",
+          "naziv": "Masa za zaglađivanje površina 3 kg",
           "ikona": "🪣",
-          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=glet+masa+5kg"
+          "bauhasUrl": "https://www.bauhaus.hr/smjese-za-zagladivanje/masa-za-zagladivanje-povrsina-sipol/p/27281257"
         }
       ]
     }
